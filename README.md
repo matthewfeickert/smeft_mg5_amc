@@ -21,3 +21,5 @@ make
 ```
 docker run --rm -v $PWD:$PWD matthewfeickert/smeft_mg5_amc:debug-latest "cd ${PWD}/tests; bash tests.sh"
 ```
+
+Locally inspect the generated directory and the webpages created.
