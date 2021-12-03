@@ -1,0 +1,3 @@
+import model SMEFTsim_U35_MwScheme_UFO
+generate p p > j j NP<=1
+output test_smeft
