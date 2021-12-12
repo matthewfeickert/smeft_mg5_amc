@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=scailfin/madgraph5-amc-nlo:mg5_amc3.3.0
+ARG BASE_IMAGE=scailfin/madgraph5-amc-nlo:mg5_amc3.3.1
 FROM ${BASE_IMAGE} as base
 
 ARG TARGET_BRANCH=v3.0.2

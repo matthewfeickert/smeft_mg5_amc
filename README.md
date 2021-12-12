@@ -7,7 +7,7 @@ MadGraph5_aMC@NLO with SMEFTsim models
 Pull from Docker Hub
 
 ```
-docker pull matthewfeickert/smeft_mg5_amc:mg5_amc3.3.0
+docker pull matthewfeickert/smeft_mg5_amc:mg5_amc3.3.1
 ```
 
 ## Build
